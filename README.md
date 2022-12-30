@@ -1,5 +1,9 @@
-# projet_collectif_extension_naviateur-ada_extension
-projet_collectif_extension_naviateur-ada_extension created by GitHub Classroom
+# P3_Extension_naviateur/Team_ada
+
+
+- Ce projet collectif a pour objectif de développer une extension pour le navigateur Google Chrome. 
+
+
 
 # MASTER TO MAIN 
 
