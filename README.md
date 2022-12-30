@@ -3,7 +3,7 @@
 
 - Ce projet collectif a pour objectif de développer une extension pour le navigateur Google Chrome. 
 
-
+<p><img align="center" alt="" src=""/></p>
 
 # MASTER TO MAIN 
 
