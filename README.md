@@ -5,6 +5,15 @@
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P3_Extension-navigateur-ada/blob/main/extension_web.png"/></p>
 
+<p>Une extension web multi-tâches qui nous permet de faire une recherche dans un dictionnaire (utilisation d'une API), de pouvoir utiliser un bloc-note et enregistrer ses sites préférés avec un marque-page.</p>
+
+Comment l'utiliser:
+
+- Cloner le répertoire.
+- Sur Google Chrome, cliquer sur le "logo extension", ensuite sur "charger l'extension non empaquetée".
+- Sélectionner "".
+
+
 # MASTER TO MAIN 
 
 git branch -a
