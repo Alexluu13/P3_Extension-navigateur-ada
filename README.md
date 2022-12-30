@@ -11,7 +11,7 @@ Comment l'utiliser:
 
 - Cloner le répertoire.
 - Sur Google Chrome, cliquer sur le "logo extension", ensuite sur "charger l'extension non empaquetée".
-- Sélectionner "".
+- Sélectionner "le dossier ".
 
 
 # MASTER TO MAIN 
