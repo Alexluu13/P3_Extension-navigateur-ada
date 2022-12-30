@@ -11,7 +11,8 @@ Comment l'utiliser:
 
 - Cloner le répertoire.
 - Sur Google Chrome, cliquer sur le "logo extension", ensuite sur "charger l'extension non empaquetée".
-- Sélectionner "le dossier ".
+- Sélectionner "le dossier extensionTurfu".
+- Épingler (sélectionner) le logo extensionTurfu dans "logo extension".
 
 
 # MASTER TO MAIN 
