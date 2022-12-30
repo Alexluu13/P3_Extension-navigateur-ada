@@ -3,7 +3,7 @@
 
 - Ce projet collectif a pour objectif de développer une extension pour le navigateur Google Chrome. 
 
-<p><img align="center" alt="" src=""/></p>
+<p><img align="center" alt="" src="https://github.com/Alexluu13/P3_Extension-navigateur-ada/blob/main/extension_web.png"/></p>
 
 # MASTER TO MAIN 
 
