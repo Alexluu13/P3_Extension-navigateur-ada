@@ -1,7 +1,7 @@
 # P3_Extension_naviateur/Team_ada
 
 
-- Ce projet collectif a pour objectif de développer une extension pour le navigateur Google Chrome. 
+Ce projet collectif a pour objectif de développer une extension pour le navigateur Google Chrome. 
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P3_Extension-navigateur-ada/blob/main/extension_web.png"/></p>
 
@@ -13,38 +13,6 @@ Comment l'utiliser:
 - Sur Google Chrome, cliquer sur le "logo extension", ensuite sur "charger l'extension non empaquetée".
 - Sélectionner "le dossier extensionTurfu".
 - Épingler (sélectionner) le logo extensionTurfu dans "logo extension".
-
-
-# MASTER TO MAIN 
-
-git branch -a
-
-git branch -m master main
-
--> passer sur Github et mettre la branche main en default 
-
-git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
-
-git branch -D master
-
-git add .
-
-git commit -m "message"
-
-git push 
-
-# CREATE A BRANCH 
-git branch <branch>
-        
-touch "file.txt"
-        
-git add .
-        
-git commit -m "message"
-        
-git push origin <branch> 
-
-Une branche par fonctionnalité. 
 
 # CRÉER LE MANIFESTE 
 
