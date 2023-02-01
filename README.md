@@ -5,7 +5,7 @@ Ce projet collectif a pour objectif de développer une extension pour le navigat
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P3_Extension-navigateur-ada/blob/main/extension_web.png"/></p>
 
-<p>Une extension web multi-tâches qui nous permet de faire une recherche dans un dictionnaire (utilisation d'une API), de pouvoir utiliser un bloc-note et enregistrer ses sites préférés avec un marque-page.</p>
+<p>Cette extension web multi-tâches nous permet de rechercher un mot dans un dictionnaire (utilisation d'une API), de pouvoir prendre des notes sur un bloc-note et enregistrer ses sites préférés dans un marque-page.</p>
 
 Comment l'utiliser:
 
